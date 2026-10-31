@@ -1,0 +1,67 @@
+[
+  {
+    "id": "ADMIN-01",
+    "registrationId": "ADMIN-KGMU",
+    "name": "KGMU एडमिन / चीफ कंसल्टेंट",
+    "phone": "7237042741",
+    "email": "admin7237@gmail.com",
+    "password": "admin@kgmu2026",
+    "address": "KGMU कैंसर संस्थान, चौक, लखनऊ",
+    "problem": "N/A",
+    "department": "Medical Oncology",
+    "doctor": "डॉ. राजीव गुप्ता",
+    "role": "Super Admin",
+    "createdAt": "2026-10-16T12:41:13.438Z",
+    "appointments": [],
+    "reports": []
+  },
+  {
+    "id": "1792151788795",
+    "registrationId": "KGMU-ONCO-106325",
+    "name": "Kartik shahi",
+    "phone": "6201983979",
+    "email": "kartik1990@gmail.com",
+    "password": "88888888",
+    "address": "Gurwalia bazar kushinagar up",
+    "problem": "Hai dikkat",
+    "department": "Oncology",
+    "doctor": "डॉ. राजीव गुप्ता",
+    "role": "Patient",
+    "createdAt": "2026-10-16T11:56:28.795Z",
+    "appointments": [],
+    "reports": [
+      {
+        "id": "REP-INIT-01",
+        "title": "प्रारंभिक क्लिनिकल मूल्यांकन एवं हिस्ट्री",
+        "department": "Medical Oncology",
+        "category": "Biopsy / Histopathology",
+        "date": "2026-10-16",
+        "doctorName": "डॉ. राजीव गुप्ता",
+        "hospitalName": "King George's Medical University, Lucknow",
+        "diagnosis": "Hai dikkat",
+        "medicines": "Tab Paracetamol 650mg, Antacid, Multivitamins",
+        "problemHistory": "Hai dikkat",
+        "treatmentDetails": "प्रारंभिक ओपीडी परामर्श",
+        "uploadedBy": "KGMU Registration Desk",
+        "uploadDate": "2026-10-16T11:56:28.795Z",
+        "verificationStatus": "Verified",
+        "verifiedBy": "डॉ. राजीव गुप्ता",
+        "files": [],
+        "auditLog": [
+          {
+            "action": "Created",
+            "by": "System",
+            "timestamp": "2026-10-16T11:56:28.795Z"
+          }
+        ],
+        "versionHistory": [
+          {
+            "version": 1,
+            "modifiedAt": "2026-10-16T11:56:28.795Z",
+            "note": "Initial Record"
+          }
+        ]
+      }
+    ]
+  }
+]

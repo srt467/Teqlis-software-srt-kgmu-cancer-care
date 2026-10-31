@@ -1,0 +1,66 @@
+{
+  "appointments": [
+    {
+      "id": "A9656",
+      "patientId": "1792048493167",
+      "doctorName": "Dr. S. K. Verma (Oncology)",
+      "date": "18/10/2026",
+      "time": "11:00 AM",
+      "type": "Oncology OPD Follow-up",
+      "status": "Confirmed"
+    },
+    {
+      "id": "A101",
+      "patientId": "default",
+      "doctorName": "Dr. S. K. Verma (Oncology HOD)",
+      "date": "2026-10-22",
+      "time": "10:30 AM",
+      "type": "Chemotherapy Review",
+      "status": "Confirmed"
+    }
+  ],
+  "medicalHistory": [
+    {
+      "id": "M101",
+      "patientId": "default",
+      "diagnosis": "Stage II Breast Carcinoma",
+      "surgeryDate": "2026-04-12",
+      "chemotherapyCycles": "4 of 6 Completed",
+      "allergies": "Penicillin",
+      "bloodGroup": "B+"
+    }
+  ],
+  "prescriptions": [
+    {
+      "id": "P101",
+      "patientId": "default",
+      "doctorName": "Dr. S. K. Verma",
+      "date": "2026-10-10",
+      "medicines": [
+        "Tab Tamoxifen 20mg (Once Daily)",
+        "Tab Ondansetron 4mg (SOS)",
+        "Cap Vitamin D3 60k"
+      ],
+      "instructions": "Drink 3 liters of water daily. Report immediately if fever > 100°F."
+    }
+  ],
+  "followUps": [
+    {
+      "id": "F101",
+      "patientId": "default",
+      "nextDate": "2026-11-05",
+      "purpose": "CBC & LFT Test Review",
+      "helpline": "7237042741",
+      "status": "Upcoming"
+    }
+  ],
+  "reports": [
+    {
+      "id": "R101",
+      "patientId": "default",
+      "title": "KGMU Pathology - CBC Report",
+      "date": "2026-10-08",
+      "doctorRemarks": "Hb: 11.2, Platelets stable. Safe for cycle 5."
+    }
+  ]
+}

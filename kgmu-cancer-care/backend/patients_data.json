@@ -1,0 +1,71 @@
+[
+  {
+    "id": "1792048493167",
+    "name": "Ritik Shahi",
+    "phone": "9838470866",
+    "email": "ritikshahi844@gmail.com",
+    "registrationId": "ritik011",
+    "password": "$2b$10$jADVtZhwurMr2UQu2UonXOQM5FvC/w.L482MltKSi2aBl2V6GltNS",
+    "department": "Oncology",
+    "supportContact": "7237042741"
+  },
+  {
+    "id": "1792048672779",
+    "name": "Ramu",
+    "phone": "0000000000",
+    "email": "sfghgg@dhgg.com",
+    "registrationId": "qwertyuiop",
+    "password": "$2b$10$Z5G.3kMNUhWkXT4Ber8jeeU81r4joAlKlUu8X4XgKjDCX6r9qgZHe",
+    "department": "Oncology",
+    "supportContact": "7237042741"
+  },
+  {
+    "id": "1792049861340",
+    "name": "Ritik shahi",
+    "phone": "6201983979",
+    "email": "ritikshahi199@gmail.com",
+    "registrationId": "ritik02",
+    "password": "$2b$10$FkeVI3OYOjd8cbdlKTAQbeESah2eTdDS5ZV.nTaaJo5GOFSLu1kVe",
+    "department": "Oncology Department (KGMU)",
+    "supportContact": "7237042741"
+  },
+  {
+    "id": "1792050177963",
+    "name": "Shivam",
+    "phone": "9685968530",
+    "email": "hdkshaiai@gmail.com",
+    "registrationId": "2284378135043",
+    "password": "$2b$10$jng5IOaDMbUdzQwJ.BB2uOc8pQvAMxLBdMwxjuWbPqcaql4KKuI3q",
+    "department": "Oncology Department (KGMU)",
+    "supportContact": "7237042741"
+  },
+  {
+    "id": "1792058371933",
+    "registrationId": "KGMU-ONCO-406089",
+    "name": "Manish",
+    "phone": "9839589125",
+    "email": "khushi199@gmail.com",
+    "password": "00000000",
+    "department": "Oncology",
+    "doctor": "डॉ. राजीव गुप्ता",
+    "createdAt": "2026-10-15T09:59:31.933Z",
+    "appointments": [
+      {
+        "id": "APT-1792058397534",
+        "doctor": "डॉ. राजीव गुप्ता",
+        "department": "Oncology",
+        "date": "2026-10-20",
+        "timeSlot": "10:00 AM - 11:30 AM",
+        "status": "कन्फर्म"
+      }
+    ],
+    "reports": [
+      {
+        "id": "REP-1",
+        "title": "प्राथमिक ऑन्कोलॉजी बायोप्सी रिपोर्ट",
+        "date": "हालिया",
+        "status": "सत्यापित"
+      }
+    ]
+  }
+]
